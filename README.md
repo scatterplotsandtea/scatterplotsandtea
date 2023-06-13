@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @scatterplotsandtea
+- 👋 Hi, I’m @scatterplotsandtea aka Elizabeth
 - 👀 I’m interested in data analytics and data visualization
-- 🌱 I’m currently expanding my knowledge in SQL and R, and learning python
-- 💞️ I’m looking to collaborate on social science projects that could be used by journalists or the general public to shed light on an issue facing our society
+- 🌱 I’m currently expanding my knowledge Python and some pretty amazing graphics programs through the Lede Program at Columbia
+- 💞️ I’m looking to collaborate on data journalism projects and interactive social science experiences that are accessible to the public
 - 📫 How to reach me ... www.ScatterplotsAndTea.com 
 - 💡 I'm inspired by Helen Wall, Bill Shander, Eric Balash, and Dr. William Lopez' "2022 Oscar Outfits as Public Health Graphs"
 
